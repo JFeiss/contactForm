@@ -1,2 +1,1 @@
 # contactForm
-src=/index.html
